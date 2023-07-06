@@ -8,3 +8,5 @@ skills.push('coding')
 
 //tuple: dataType/size/order
 let skills2: [string, number] = ["Trang", 20]
+//optional:không yêu cầu có đủ số lượng phần tử trong mảng
+let skills3: [boolean, string, number?] = [true, "Trang"]
